@@ -3,6 +3,10 @@ package curs1;
 // numele claselor este intotdeauna UpperCamelCase
 public class PrimaClasa {
 
+	//conventie nume pachete java
+	//microsoft.com in proiectul edge
+	//com.microsoft.edge. - domain name 
+	
 	public static void main(String[] args) {
 		System.out.println("Test");
 		
